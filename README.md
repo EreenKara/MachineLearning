@@ -4,7 +4,7 @@ My Machine Learning Adventure. Sources that i used while i learning.
 ## 1. BTK Akademi  
 ### Sadık Turan
 [Sıfırdan İleri Seviye Python Programlama](<https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877>)  
-I had watched this course before machine learning so I was already know python. It is not about python but a part of my journey so it is here. 
+I had watched this course before machine learning so I was already know python. It is not about machine learning but it is a part of my journey so it is here. 
 
 ## 2. Coursera
 ### Andrew NG
