@@ -32,3 +32,7 @@ General overview to Machine Learning and coding in python.
 [Machine Learning](<https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF>)  
 [Deep Learning](<https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1>)  
 Great source. Just Great.
+
+## 7. Digital Sreeni 
+### Dr. Sreeni
+[Deep Learning](<https://www.youtube.com/@DigitalSreeni>)  
